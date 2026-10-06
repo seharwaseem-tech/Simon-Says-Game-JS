@@ -25,7 +25,7 @@ game logic.
 - JavaScript (DOM manipulation, event listeners, array logic)
 
 ## Preview
-![Simon Game](./screenshots/simon-game.png)
+![Simon Game](./screenshots/simonGameSS.png)
 
 ## Author
 Sehar Waseem <br>
